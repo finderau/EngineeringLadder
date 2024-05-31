@@ -1,3 +1,5 @@
+<img alt="FinderLogo" src="/charts/Finder-eyes-800x189.png" style="width: 100%;">
+
 # Tech Lead / Engineering Manager
 
 Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support.

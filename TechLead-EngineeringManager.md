@@ -1,3 +1,5 @@
+<img alt="FinderLogo" src="/charts/Finder-eyes-800x189.png" style="width: 100%;">
+
 # Tech Lead vs Engineering Manager
 
 It is very common for companies to mix the Tech Lead and Engineering Manager roles. Although both roles have some overlap, their focus is different: the Tech Lead is in charge of the *System* while the Engineering Manager is in charge of the *People*.
