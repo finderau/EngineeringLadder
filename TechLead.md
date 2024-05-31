@@ -6,12 +6,12 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 5 | Yes | [TL5 - Tech Lead 5](#tl/em5---tech-lead/engineering-manager-5) |
-| 6 | Yes | [TL6 - Tech Lead 6](#tl/em6---tech-lead/engineering-manager-6) |
-| 7 | Yes | [TL7 - Tech Lead 7](#tl/em7---tech-lead/engineering-manager-7) |
+| 5 | Yes | [TL-EM 5 - Tech Lead / Engineering Manager 5](#tl/em5---tech-lead/engineering-manager-5) |
+| 6 | Yes | [TL-EM 6 - Tech Lead / Engineering Manager 6](#tl/em6---tech-lead/engineering-manager-6) |
+| 7 | Yes | [TL-EM 7 - Tech Lead / Engineering Manager 7](#tl/em7---tech-lead/engineering-manager-7) |
 
 
-## TL/EM5 - Tech Lead/Engineering Manager 5
+## TL-EM 5 - Tech Lead/Engineering Manager 5
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-5-dark.png">
@@ -25,7 +25,7 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## TL/EM6 - Tech Lead/Engineering Manager 6
+## TL-EM 6 - Tech Lead/Engineering Manager 6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-6-dark.png">
@@ -40,7 +40,7 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 **Company**: makes an impact on the whole tech organization
 
 
-## TL/EM7 - Tech Lead/Engineering Manager 7
+## TL-EM 7 - Tech Lead/Engineering Manager 7
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-7-dark.png">
