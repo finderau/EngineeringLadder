@@ -1,4 +1,4 @@
-<img alt="FinderLogo" src="/charts/Finder-eyes-96x96.png">
+<img alt="FinderLogo" src="/charts/Finder-eyes-800x189.png" style="width: 100%;">
 
 # Managing Managers
 
