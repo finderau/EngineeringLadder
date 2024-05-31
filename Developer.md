@@ -1,4 +1,4 @@
-<img alt="FinderLogo" src="/charts/Finder-eyes-800x189.png" style="width: 100%;">
+<img alt="FinderLogo" src="/charts/Finder-logo.png" style="width: 100%;">
 
 # Developer
 
