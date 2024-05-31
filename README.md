@@ -1,3 +1,5 @@
+<img alt="FinderLogo" src="/charts/Finder-eyes-800x189.png" style="width: 100%;">
+
 # Introduction
 
 This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder at Finder.

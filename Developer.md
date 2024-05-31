@@ -1,3 +1,5 @@
+<img alt="FinderLogo" src="/charts/Finder-eyes-800x189.png" style="width: 100%;">
+
 # Developer
 
 Role also known as programmer or software engineer, requires a deep level of technical expertise.
