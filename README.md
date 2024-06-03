@@ -18,19 +18,19 @@ The framework relies heavily on radar charts to visually represent the different
 The framework has 2 different ladders:
 
 * [**Technical**](Technical.md): role also known as programmer or software engineer, requires a deep level of technical expertise and technical ownership of the system.
-* [**Tech Lead / Engineering Manager**](TechLead.md): role also known as dev lead or dev manager, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support along with consistent delivery, career growth and level of happiness of the team.
+* [**Tech People Leader**](PeopleLeader.md): role also known as dev lead or dev manager, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support along with consistent delivery, career growth and level of happiness of the team.
 
-If you are confused about the difference between a Tech Lead and an Engineering Manager, please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
+If you are confused about the difference between a Tech Lead and an Engineering Manager, please refer to the [Tech Lead vs Engineering Manager](PeopleLeader-EngineeringManager.md) page for a detailed comparison.
 
-| Level | Senior | [Technical](Technical.md) | [Tech Lead / Engineering Manager](TechLead.md) | 
+| Level | Senior | [Technical](Technical.md) | [People Leader](PeopleLeader.md) | 
 | :---: | :---: | :---: | :---: | 
 | 1 | No | [T1](Technical.md#T1---Technical-1) | | 
 | 2 | No | [T2](Technical.md#T2---Technical-2) | | 
 | 3 | No | [T3](Technical.md#T3---Technical-3) | | 
 | 4 | Yes | [T4](Technical.md#T4---Technical-4) | | 
-| 5 | Yes | [T5](Technical.md#T5---Technical-5) | [TL-EM 5](TechLead.md#tl5---tech-lead-5) | 
-| 6 | Yes | [T6](Technical.md#T6---Technical-6) | [TL-EM 6](TechLead.md#tl6---tech-lead-6) | 
-| 7 | Yes | [T7](Technical.md#T7---Technical-7) | [TL-EM 7](TechLead.md#tl7---tech-lead-7) | 
+| 5 | Yes | [T5](Technical.md#T5---Technical-5) | [TPL 5](PeopleLeader.md#TPL5---Tech-People-Leader-5) | 
+| 6 | Yes | [T6](Technical.md#T6---Technical-6) | [TPL 6](PeopleLeader.md#TPL6---Tech-People-Leader-6) | 
+| 7 | Yes | [T7](Technical.md#T7---Technical-7) | [TPL 7](PeopleLeader.md#TPL7---Tech-People-Leader-7) | 
 
 (click on position name for more details)
 
@@ -117,6 +117,6 @@ Different teams collect evidence in different ways. A recommended approach is to
 # Other Pages
 
 * [**Technical**](Technical.md)
-* [**Tech Lead / Engineering Manager**](TechLead.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Tech People Leader**](PeopleLeader.md)
+* [**Tech Lead vs Engineering Manager**](PeopleLeader-EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)

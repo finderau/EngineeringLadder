@@ -1,22 +1,22 @@
 <img alt="FinderLogo" src="/charts/Finder-logo.png">
 
-# Tech Lead / Engineering Manager
+# People Leader
 
 Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support.
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 5 | Yes | [TL-EM 5 - Tech Lead / Engineering Manager 5](#tl/em5---tech-lead/engineering-manager-5) |
-| 6 | Yes | [TL-EM 6 - Tech Lead / Engineering Manager 6](#tl/em6---tech-lead/engineering-manager-6) |
-| 7 | Yes | [TL-EM 7 - Tech Lead / Engineering Manager 7](#tl/em7---tech-lead/engineering-manager-7) |
+| 5 | Yes | [TPL 5 - Tech People Leader 5](#TPL5---Tech-People-Leader-5) |
+| 6 | Yes | [TPL 6 - Tech People Leader 6](#TPL6---Tech-People-Leader-6) |
+| 7 | Yes | [TPL 7 - Tech People Leader 7](#TPL7---Tech-People-Leader-7) |
 
 
-## TL-EM 5 - Tech Lead/Engineering Manager 5
+## TPL5 - Tech People Leader 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/techlead-5.png">
-  <img alt="Tech Lead 5" src="/charts/techlead-5.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/peopleleader-5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/peopleleader-5.png">
+  <img alt="Tech People Leader 5" src="/charts/peopleleader-5.png">
 </picture>
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
@@ -25,12 +25,12 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## TL-EM 6 - Tech Lead/Engineering Manager 6
+## TPL6 - Tech People Leader 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/techlead-6.png">
-  <img alt="Tech Lead 6" src="/charts/techlead-6.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/peopleleader-6-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/peopleleader-6.png">
+  <img alt="Tech Lead 6" src="/charts/peopleleader-6.png">
 </picture>
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
@@ -40,12 +40,12 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 **Company**: makes an impact on the whole tech organization
 
 
-## TL-EM 7 - Tech Lead/Engineering Manager 7
+## TPL7 - Tech People Leader 7
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/techlead-7.png">
-  <img alt="Tech Lead 7" src="/charts/techlead-7.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/peopleleader-7-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/peopleleader-7.png">
+  <img alt="Tech Lead 7" src="/charts/peopleleader-7.png">
 </picture>
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
@@ -58,5 +58,5 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 * [**Introduction**](README.md)
 * [**Technical**](Technical.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Tech Lead vs Engineering Manager**](PeopleLeader-EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)

@@ -8,7 +8,7 @@ If the team is small and/or the leader has a lot of experience as Engineering Ma
 
 The following is a non-exhaustive list that exemplifies some of the different responsibilities of each role:
 
-| [Tech Lead](TechLead.md) (System) | [Engineering Manager](EngineeringManager.md) (People)|
+| Tech Lead (System) | Engineering Manager (People)|
 | :--- | :--- |
 | Technical Excellence and Innovation| Career Planning, Promotions and Coaching |
 | Architecture and System Integration | Headcount Planning and Hiring |
@@ -38,5 +38,5 @@ Having said that, although it is important for an Engineering Manager to be able
 
 * [**Introduction**](README.md)
 * [**Technical**](Technical.md)
-* [**Tech Lead / Engineering Manager**](TechLead.md)
+* [**Tech People Leader**](PeopleLeader.md)
 * [**Managing Managers**](Managing-Managers.md)
