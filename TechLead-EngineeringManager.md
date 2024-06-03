@@ -37,6 +37,6 @@ Having said that, although it is important for an Engineering Manager to be able
 # Other Pages
 
 * [**Introduction**](README.md)
-* [**Developer**](Developer.md)
+* [**Technical**](Technical.md)
 * [**Tech Lead / Engineering Manager**](TechLead.md)
 * [**Managing Managers**](Managing-Managers.md)
