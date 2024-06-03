@@ -17,20 +17,20 @@ The framework relies heavily on radar charts to visually represent the different
 
 The framework has 2 different ladders:
 
-* [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise and technical ownership of the system.
+* [**Technical**](Technical.md): role also known as programmer or software engineer, requires a deep level of technical expertise and technical ownership of the system.
 * [**Tech Lead / Engineering Manager**](TechLead.md): role also known as dev lead or dev manager, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support along with consistent delivery, career growth and level of happiness of the team.
 
 If you are confused about the difference between a Tech Lead and an Engineering Manager, please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
 
-| Level | Senior | [Developer](Developer.md) | [Tech Lead / Engineering Manager](TechLead.md) | 
+| Level | Senior | [Technical](Technical.md) | [Tech Lead / Engineering Manager](TechLead.md) | 
 | :---: | :---: | :---: | :---: | 
-| 1 | No | [D1](Developer.md#d1---developer-1) | | 
-| 2 | No | [D2](Developer.md#d2---developer-2) | | 
-| 3 | No | [D3](Developer.md#d3---developer-3) | | 
-| 4 | Yes | [D4](Developer.md#d4---developer-4) | | 
-| 5 | Yes | [D5](Developer.md#d5---developer-5) | [TL-EM 5](TechLead.md#tl5---tech-lead-5) | 
-| 6 | Yes | [D6](Developer.md#d6---developer-6) | [TL-EM 6](TechLead.md#tl6---tech-lead-6) | 
-| 7 | Yes | [D7](Developer.md#d7---developer-7) | [TL-EM 7](TechLead.md#tl7---tech-lead-7) | 
+| 1 | No | [T1](Technical.md#T1---Technical-1) | | 
+| 2 | No | [T2](Technical.md#T2---Technical-2) | | 
+| 3 | No | [T3](Technical.md#T3---Technical-3) | | 
+| 4 | Yes | [T4](Technical.md#T4---Technical-4) | | 
+| 5 | Yes | [T5](Technical.md#T5---Technical-5) | [TL-EM 5](TechLead.md#tl5---tech-lead-5) | 
+| 6 | Yes | [T6](Technical.md#T6---Technical-6) | [TL-EM 6](TechLead.md#tl6---tech-lead-6) | 
+| 7 | Yes | [T7](Technical.md#T7---Technical-7) | [TL-EM 7](TechLead.md#tl7---tech-lead-7) | 
 
 (click on position name for more details)
 
@@ -116,7 +116,7 @@ Different teams collect evidence in different ways. A recommended approach is to
 
 # Other Pages
 
-* [**Developer**](Developer.md)
+* [**Technical**](Technical.md)
 * [**Tech Lead / Engineering Manager**](TechLead.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)

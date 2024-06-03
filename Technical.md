@@ -1,25 +1,25 @@
 <img alt="FinderLogo" src="/charts/Finder-logo.png">
 
-# Developer
+# Technical
 
 Role also known as programmer or software engineer, requires a deep level of technical expertise.
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 1 | No | [D1 - Developer 1](#d1---developer-1) |
-| 2 | No | [D2 - Developer 2](#d2---developer-2) |
-| 3 | No | [D3 - Developer 3](#d3---developer-3) |
-| 4 | Yes | [D4 - Developer 4](#d4---developer-4) |
-| 5 | Yes | [D5 - Developer 5](#d5---developer-5) |
-| 6 | Yes | [D6 - Developer 6](#d6---developer-6) |
-| 7 | Yes | [D7 - Developer 7](#d7---developer-7) |
+| 1 | No | [T1 - Technical 1](#T1---Technical-1) |
+| 2 | No | [T2 - Technical 2](#T2---Technical-2) |
+| 3 | No | [T3 - Technical 3](#T3---Technical-3) |
+| 4 | Yes | [T4 - Technical 4](#T4---Technical-4) |
+| 5 | Yes | [T5 - Technical 5](#T5---Technical-5) |
+| 6 | Yes | [T6 - Technical 6](#T6---Technical-6) |
+| 7 | Yes | [T7 - Technical 7](#T7---Technical-7) |
 
-## D1 - Developer 1
+## T1 - Technical 1
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-1-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-1.png">
-  <img alt="Developer 1" src="/charts/developer-1.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/technical-1-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/technical-1.png">
+  <img alt="Technical 1" src="/charts/technical-1.png">
 </picture>
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
@@ -28,12 +28,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D2 - Developer 2
+## T2 - Technical 2
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-2-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-2.png">
-  <img alt="Developer 2" src="/charts/developer-2.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/technical-2-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/technical-2.png">
+  <img alt="Technical 2" src="/charts/technical-2.png">
 </picture>
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
@@ -42,12 +42,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D3 - Developer 3
+## T3 - Technical 3
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-3-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-3.png">
-  <img alt="Developer 3" src="/charts/developer-3.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/technical-3-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/technical-3.png">
+  <img alt="Technical 3" src="/charts/technical-3.png">
 </picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
@@ -56,12 +56,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D4 - Developer 4
+## T4 - Technical 4
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-4.png">
-  <img alt="Developer 4" src="/charts/developer-4.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/technical-4-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/technical-4.png">
+  <img alt="Technical 4" src="/charts/technical-4.png">
 </picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
@@ -70,12 +70,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D5 - Developer 5
+## T5 - Technical 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-5.png">
-  <img alt="Developer 5" src="/charts/developer-5.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/technical-5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/technical-5.png">
+  <img alt="Technical 5" src="/charts/technical-5.png">
 </picture>
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
@@ -84,12 +84,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## D6 - Developer 6
+## T6 - Technical 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-6.png">
-  <img alt="Developer 6" src="/charts/developer-6.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/technical-6-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/technical-6.png">
+  <img alt="Technical 6" src="/charts/technical-6.png">
 </picture>
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
@@ -98,12 +98,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
-## D7 - Developer 7
+## T7 - Technical 7
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-7.png">
-  <img alt="Developer 7" src="/charts/developer-7.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/technical-7-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/technical-7.png">
+  <img alt="Technical 7" src="/charts/technical-7.png">
 </picture>
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
